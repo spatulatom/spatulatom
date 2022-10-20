@@ -3,7 +3,7 @@
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## 👁️ Projects
--  <a href="https://spatulatom.github.io/projects/">- portfolio »</a>
+-  <a href="https://spatulatom.github.io/projects/"> portfolio »</a>
    
 
 
