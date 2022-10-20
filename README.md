@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 👁️ About me
 - Front-end projects - https://spatulatom.github.io/projects/
 - studing online on Udemy/Codecademy, 
