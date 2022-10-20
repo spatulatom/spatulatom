@@ -1,18 +1,14 @@
-### Hi there
-[![LinkedIn][linkedin-shield]][linkedin-url]
+### Hi there 👋
+
+## 👁️ About me
+- Front-end projects - https://spatulatom.github.io/projects/
+- studing online on Udemy/Codecademy, 
+- [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Technologies & Tools most used
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
