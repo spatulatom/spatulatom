@@ -4,9 +4,9 @@
 
 ## 👁️ Projects
 <p>
-    <a href="https://spatulatom.github.io/projects/"><strong>- view the deployed website. »</strong></a>
+    <a href="https://spatulatom.github.io/projects/"><strong>- portfolio »</strong></a>
     <br />
-    <a href="https://github.com/spatulatom/projects#readme-top"><strong>- see the website's repository on GitHub.  »</strong></a>
+    <a href="https://github.com/spatulatom/projects#readme-top"><strong>- portfolio's repository on GitHub.  »</strong></a>
     <br />
    
  </p>
