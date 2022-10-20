@@ -1,7 +1,16 @@
 ## 👁️ About me
-- Front-end projects - https://spatulatom.github.io/projects/
 - studing online on Udemy/Codecademy, 
 - [![LinkedIn][linkedin-shield]][linkedin-url]
+
+## 👁️ Projects
+<p>
+    'projects' is a portfolio website - this repository contains its source code
+       <br />
+    <a href="https://spatulatom.github.io/projects/"><strong>View the deployed website »</strong></a>
+    <br />
+    <br />
+   
+ </p>
 
 
 ## 🛠️ Technologies & Tools most used
