@@ -3,6 +3,7 @@
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## 👁️ Projects
+Some of my ore intersting projects are grouped here: 
 -  <a href="https://spatulatom.github.io/projects/"> portfolio »</a>
    
 
