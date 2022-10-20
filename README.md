@@ -1,5 +1,5 @@
 ### Hi there
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/tomasz-s-069249244/
