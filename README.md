@@ -4,10 +4,10 @@
 
 ## 👁️ Projects
 <p>
-    'projects' is a portfolio website - this repository contains its source code
-       <br />
-    <a href="https://spatulatom.github.io/projects/"><strong>View the deployed website »</strong></a>
     <br />
+    <a href="https://spatulatom.github.io/projects/"><strong>- view the deployed website. »</strong></a>
+    <br />
+    <a href="https://github.com/spatulatom/projects#readme-top"><strong>- see the website's repository on GitHub.  »</strong></a>
     <br />
    
  </p>
