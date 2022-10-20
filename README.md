@@ -6,9 +6,7 @@
 <p>
     <a href="https://spatulatom.github.io/projects/"><strong>- portfolio »</strong></a>
     <br />
-    <a href="https://github.com/spatulatom/projects#readme-top"><strong>- portfolio's repository on GitHub »</strong></a>
-    <br />
-   
+  
  </p>
 
 
