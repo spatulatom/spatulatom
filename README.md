@@ -3,11 +3,8 @@
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## 👁️ Projects
-<p>
-    <a href="https://spatulatom.github.io/projects/"><strong>- portfolio »</strong></a>
-    <br />
-  
- </p>
+-  <a href="https://spatulatom.github.io/projects/">- portfolio »</a>
+   
 
 
 ## 🛠️ Technologies & Tools most used
