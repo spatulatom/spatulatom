@@ -4,7 +4,7 @@
 
 ## 👁️ Projects
 Some of my more intersting projects are grouped here: 
--  <a href="https://spatulatom.github.io/projects/" target="_blank"> portfolio »</a>
+-  <a href="https://spatulatom.github.io/projects/" target="_blank"> project's website »</a>
    
 
 
