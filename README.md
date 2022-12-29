@@ -1,8 +1,8 @@
-## 👁️ About me
+## About me
 - studing online on Udemy/Codecademy, 
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 
-## 👁️ Projects
+## 👁 Projects
 Some of my more intersting projects are grouped here: 
 -  <a href="https://spatulatom.github.io/projects-online/" target="_blank"> project's website »</a>
    
