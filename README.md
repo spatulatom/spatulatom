@@ -3,7 +3,7 @@
 
 ## Projects
 Some of my more intersting projects are grouped here: 
--  <a href="https://spatulatom.github.io/projects-online/" target="_blank"> project's website »</a>
+-  <a href="https://spatulatom.github.io/projects-online/" target="_blank"> projects online »</a>
    
 
 
