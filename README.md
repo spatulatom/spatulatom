@@ -1,6 +1,6 @@
 ## About me
 - studing online on Udemy/Codecademy, 
-<!-- - [![LinkedIn][linkedin-shield]][linkedin-url] -->
+- [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Projects
 Some of my more intersting projects are grouped here: 
