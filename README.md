@@ -17,4 +17,4 @@ Next.js, Tailwind
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/thomas-s-069249244/
+[linkedin-url]: https://www.linkedin.com/in/tomasz-s-069249244/
