@@ -3,7 +3,7 @@
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Projects
-Some of my more intersting projects are grouped here: 
+Some of my more interesting projects are grouped below. Check them out: 
 -  <a href="https://spatulatom.github.io/projects-online/" target="_blank"> projects online »</a>
    
 
