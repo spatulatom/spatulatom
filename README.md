@@ -8,7 +8,7 @@ My more interesting projects are grouped here:
 <b/>
 Links to other projects  or projects not finished yet are here:
 <br/>
-- <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank> imitation of Wordle, popular guessing game </a>
+- <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> imitation of Wordle, popular guessing game </a>
    
 
 
