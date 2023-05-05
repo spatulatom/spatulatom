@@ -6,8 +6,9 @@
 My more interesting projects are grouped here: 
 -  <a href="https://spatulatom.github.io/projects-online/" target="_blank"> projects online »</a>
 </b>
-Other projects  or projects not finished yet are grouped here:
--  <a href="https://nextjs-wordle-new-york-times-game.vercel.app/ target="_blank""> imitation of Wordle, popular guessing game </a>
+Links to other projects  or projects not finished yet are here:
+<br/>
+- <a href="https://nextjs-wordle-new-york-times-game.vercel.app/ target="_blank""> imitation of Wordle, popular guessing game </a>
    
 
 
