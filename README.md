@@ -3,7 +3,9 @@
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Projects
-My more interesting projects are grouped here: - <a href="https://spatulatom.github.io/projects-online/" target="_blank"> projects online website</a>
+My more interesting projects are grouped here:
+<br/>
+- <a href="https://spatulatom.github.io/projects-online/" target="_blank"> projects online website</a>
 <br/>
 Links to other projects  or projects not finished yet are here:
 <br/>
