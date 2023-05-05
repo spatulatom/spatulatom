@@ -2,12 +2,13 @@
 - studing online on Udemy/Codecademy, 
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Projects
+## Main Projects
 My more interesting projects are grouped here:
 <br/>
 - <a href="https://spatulatom.github.io/projects-online/" target="_blank"> projects online website</a>
 <br/>
-Links to other projects  or projects not finished yet are here:
+## Other Projects
+Links to  projects not so intersting  or projects not finished yet:
 <br/>
 - <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> imitation of Wordle, popular guessing game </a>
    
