@@ -3,11 +3,11 @@
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Projects
-Some of my more interesting projects are grouped below: 
+My more interesting projects are grouped here: 
 -  <a href="https://spatulatom.github.io/projects-online/" target="_blank"> projects online »</a>
 </b>
-Other projects:
-- <a href="https://nextjs-wordle-new-york-times-game.vercel.app/"> imitation of Wordle, popular guessing game </a>
+Other projects  or projects not finished yet are grouped here:
+-  <a href="https://nextjs-wordle-new-york-times-game.vercel.app/ target="_blank""> imitation of Wordle, popular guessing game </a>
    
 
 
