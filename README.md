@@ -5,12 +5,12 @@
 
 
 ## Projects
-My more interesting projects are grouped here:
+Some more interesting projects:
 <br/>
 - <a href="https://spatulatom.github.io/projects-online/"   target="_blank"> projects online website</a>
 <br/>
 
-Less interesting projects/projects not finished yet:
+Other projects/projects not finished yet:
 <br/>
 - <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> imitation of Wordle, a popular guessing game </a>
    
