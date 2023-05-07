@@ -5,7 +5,7 @@
 
 
 ## Projects
-Some of my more interesting projects:
+Some of my more interesting projects: 
 <br/>
 - <a href="https://github.com/spatulatom/projects-online#readme"   target="_blank"> projects online website</a>
 <br/>
