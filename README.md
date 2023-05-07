@@ -7,7 +7,7 @@
 ## Projects
 Some of my more interesting projects:
 <br/>
-- <a href="https://spatulatom.github.io/projects-online/"   target="_blank"> projects online website</a>
+- <a href="https://github.com/spatulatom/projects-online#readme"   target="_blank"> projects online website</a>
 <br/>
 
 Other projects/projects not finished yet:
