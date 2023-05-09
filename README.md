@@ -10,14 +10,14 @@ Some of my more interesting projects:
 <br/>
 
 Other projects/projects not finished yet:
-- <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> imitation of Wordle, a popular guessing game </a>
-- <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> my first Next.js project "California Destinations"</a>
-- <a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> a ToDo in React && TypeScript </a>
-- <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme"> my first React && Redux app "Shopping Card"</a>
-- <a href="https://github.com/spatulatom/todo-reactjs#readme"> a ToDo in React.js  </a>
-- <a href="https://github.com/spatulatom/todo-vanillajs#readme"> a ToDo in Vanilla JS</a>
-- <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> a simple Bootstrap website </a>
-- <a href="https://github.com/spatulatom/sass-project#readme-top"> a simple SASS project</a>
+- <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> imitation of Wordle, a  guessing game (Next.js, TypeScript, Tailwind CSS) </a>
+- <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> "California Destinations" (Next.js) </a>
+- <a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> a ToDo (React.js,TypeScript) </a>
+- <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme">"Shopping Card" (Redux) </a>
+- <a href="https://github.com/spatulatom/todo-reactjs#readme"> a ToDo (React.js ) </a>
+- <a href="https://github.com/spatulatom/todo-vanillajs#readme"> a ToDo (Vanilla JS)</a>
+- <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> "ad hoc" (Bootstrap)</a>
+- <a href="https://github.com/spatulatom/sass-project#readme-top"> "Visit Japan"  (SASS)</a>
    
 
 
