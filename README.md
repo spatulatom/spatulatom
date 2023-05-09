@@ -11,12 +11,11 @@ Main projects:
 
 Other projects:
 - <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> an imitation of Wordle, a  guessing game (Next.js, TypeScript, Tailwind CSS) </a>
-- <a href="https://github.com/spatulatom/projects-online#readme"> my portflio website (Tailwind CSS, vanilla JS) </a> 
+- <a href="https://github.com/spatulatom/projects-online#readme"> my portflio website (Tailwind CSS, Vanilla JS) </a> 
 - <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> "California Destinations" (Next.js) </a>
 - <a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> a ToDo (React.js,TypeScript) </a>
 - <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme">"Shopping Card" (Redux) </a>
 - <a href="https://github.com/spatulatom/todo-reactjs#readme"> a ToDo (React.js ) </a>
-- <a href="https://github.com/spatulatom/todo-vanillajs#readme"> a ToDo (Vanilla JS)</a>
 - <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> "ad hoc" (Bootstrap)</a>
 - <a href="https://github.com/spatulatom/sass-project#readme-top"> "Visit Japan"  (SASS)</a>
 
