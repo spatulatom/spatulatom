@@ -10,7 +10,7 @@ Some of my more interesting projects:
 <br/>
 
 Other projects/projects not finished yet:
-- <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> imitation of Wordle, a  guessing game (Next.js, TypeScript, Tailwind CSS) </a>
+- <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> an imitation of Wordle, a  guessing game (Next.js, TypeScript, Tailwind CSS) </a>
 - <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> "California Destinations" (Next.js) </a>
 - <a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> a ToDo (React.js,TypeScript) </a>
 - <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme">"Shopping Card" (Redux) </a>
