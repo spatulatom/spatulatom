@@ -23,9 +23,10 @@ Other projects:
 
 
 ## Most Used Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-Next.js, TypeScript, Tailwind CSS
+Tailwind CSS,
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript),
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react),
+Next.js, TypeScript
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
