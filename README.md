@@ -6,18 +6,18 @@
 
 ## Projects
 Main projects: 
-- <a href="https://spatulatom.github.io/projects-online/"   target="_blank"> listed here </a>
+- listed <a href="https://spatulatom.github.io/projects-online/"   target="_blank"> here </a>
 <br/>
 
 Other projects:
-- <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> an imitation of Wordle, a  guessing game (Next.js, TypeScript, Tailwind CSS) </a>
-- <a href="https://github.com/spatulatom/projects-online#readme"> portflio website (Tailwind CSS, Vanilla JS) </a> 
-- <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> "California Destinations" (Next.js) </a>
-- <a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> a ToDo (React.js,TypeScript) </a>
-- <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme">"Shopping Card" (Redux) </a>
-- <a href="https://github.com/spatulatom/todo-reactjs#readme"> a ToDo (React.js ) </a>
-- <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> "ad hoc" (Bootstrap)</a>
-- <a href="https://github.com/spatulatom/sass-project#readme-top"> "Visit Japan"  (SASS)</a>
+-  an imitation of Wordle, a  guessing game (Next.js, TypeScript, Tailwind CSS)<a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> here </a>
+-  portflio website (Tailwind CSS, Vanilla JS)<a href="https://github.com/spatulatom/projects-online#readme"> here </a> 
+- "California Destinations" (Next.js) <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> here </a>
+- a ToDo (React.js,TypeScript)<a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> here </a>
+- "Shopping Card" (Redux) <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme"> here </a>
+- a ToDo (React.js )<a href="https://github.com/spatulatom/todo-reactjs#readme"> here </a>
+- "ad hoc" (Bootstrap) <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> here</a>
+- "Visit Japan"  (SASS)<a href="https://github.com/spatulatom/sass-project#readme-top"> here</a>
 
    
 
