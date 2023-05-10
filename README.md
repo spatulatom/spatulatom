@@ -1,7 +1,7 @@
 ## About me
 - studing online on Udemy/Codecademy, 
 - [![LinkedIn][linkedin-shield]][linkedin-url],
-- a personal website <a href="https://spatulatom.github.io/projects-online/">here</a>.
+
 
 
 
