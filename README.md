@@ -7,7 +7,7 @@
 
 ## Projects
 Main projects: 
-- a list of<a href="https://spatulatom.github.io/projects-online/#secondPage"   target="_blank"> main projects </a>.
+- <a href="https://spatulatom.github.io/projects-online/#secondPage"   target="_blank"> a list of main projects </a>.
 <br/>
 
 Other projects:
