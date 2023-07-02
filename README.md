@@ -9,9 +9,10 @@
 
 
 ## Projects
-- Main projects: 
+Main projects: 
 - <a href="https://projects-online.vercel.app/#secondPage"   target="_blank"> a list of main projects </a>.
-- Other projects:
+
+Other projects:
 -  <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> an imitation of Wordle, a  guessing game (Next.js, TypeScript, Tailwind CSS) </a>,
 - <a href="https://github.com/spatulatom/projects-online#readme">  portflio website (Tailwind CSS, Vanilla JS) </a>, 
 -  <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> "California Destinations" (Next.js) </a>,
