@@ -30,7 +30,7 @@ Other projects:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript),
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react),
 Next.js, TypeScript, React Testing Library,
-- backend architecture: a diverse range of technologies (that I am only learning) like  MERN stack, Next.js integreted backend, Prisma, PostgreSQL, Cloudinary, and Uploadcare.
+- backend architecture: a diverse range of technologies (that I am only learning) like  MERN stack, Prisma, PostgreSQL, Next.js integrated backend.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
