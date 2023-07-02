@@ -1,9 +1,8 @@
 ## About me
 - studing online on Udemy/Codecademy, 
 - [![LinkedIn][linkedin-shield]][linkedin-url].
-Hello, I'm Tomasz, a web developer with a strong focus on building robust web applications. I have gained proficiency in vanilla JavaScript, HTML, and CSS, and subsequently explored React.js and the MERN stack.
-
-My current projects primarily utilize Next.js with TypeScript, Prisma, and PostgreSQL for backend development. While I have acquired familiarity with Prisma and PostgreSQL, I am continuously expanding my knowledge of these intricate technologies. For styling, I rely on Tailwind CSS, and media storage is handled by Cloudinary and Uploadcare. To ensure code quality, I employ React Testing Library for unit testing.
+  <br/>
+Hello, I'm Tom, a web developer with a strong focus on building robust web applications. I have gained proficiency in vanilla JavaScript, HTML, and CSS, and subsequently explored React.js and the MERN stack. My current projects primarily utilize Next.js with TypeScript, Prisma, and PostgreSQL for backend development. While I have acquired familiarity with Prisma and PostgreSQL, I am continuously expanding my knowledge of these intricate technologies. For styling, I rely on Tailwind CSS, and media storage is handled by Cloudinary and Uploadcare. To ensure code quality, I employ React Testing Library for unit testing.
 <br/> I am particularly enthusiastic about the recent advancements in React.js and Next.js, especially the introduction of server components, which has brought about a significant paradigm shift in frontend and backend divisions within web development. I eagerly anticipate further updates and advancements in these technologies.
 
 
