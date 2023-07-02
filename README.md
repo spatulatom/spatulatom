@@ -31,7 +31,7 @@ Other projects:
 HTML, Tailwind CSS,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript),
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react),
-Next.js, TypeScript, React Testing Library
+Next.js, TypeScript, React Testing Library, backend architecture: I incorporate a diverse range of technologies that I am currently in the process of learning.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
