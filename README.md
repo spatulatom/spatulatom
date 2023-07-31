@@ -1,7 +1,7 @@
 ## About me
 - studing online on Udemy/Codecademy, 
 - [![LinkedIn][linkedin-shield]][linkedin-url].
-- Hello, I'm Tom. I started building web apps with vanilla JavaScript, HTML, and CSS, and subsequently I've explored React.js and the MERN stack.
+- Hello, I'm Tom. I started building web apps with vanilla JavaScript, HTML, and CSS, and then subsequently I've explored React.js and the MERN stack.
 <br/>My current projects primarily utilize Next.js with TypeScript. For styling, I rely on Tailwind CSS, and media storage is handled by Cloudinary and Uploadcare.
 <br/> I am particularly enthusiastic about the recent advancements in React.js and Next.js, especially the introduction of server components. I eagerly anticipate further updates and advancements in these technologies.
   <br/>
@@ -29,7 +29,7 @@ Other projects:
 - frontend: HTML, Tailwind CSS,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript),
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react),
-Next.js, TypeScript, React Testing Library,
+Next.js, TypeScript
 - backend architecture: a diverse range of technologies (that I am only learning) like  MERN stack, Prisma, PostgreSQL, Next.js integrated backend.
 
 
