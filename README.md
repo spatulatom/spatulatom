@@ -1,7 +1,7 @@
 ## About me
 - studing online on Udemy/Codecademy, 
 - [![LinkedIn][linkedin-shield]][linkedin-url].
-- Hello, I'm Tom. I started buildindg web apps with vanilla JavaScript, HTML, and CSS, and subsequently I've explored React.js and the MERN stack.
+- Hello, I'm Tom. I started building web apps with vanilla JavaScript, HTML, and CSS, and subsequently I've explored React.js and the MERN stack.
 <br/>My current projects primarily utilize Next.js with TypeScript. For styling, I rely on Tailwind CSS, and media storage is handled by Cloudinary and Uploadcare.
 <br/> I am particularly enthusiastic about the recent advancements in React.js and Next.js, especially the introduction of server components. I eagerly anticipate further updates and advancements in these technologies.
   <br/>
