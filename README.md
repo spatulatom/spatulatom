@@ -27,7 +27,7 @@ Other projects:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript),
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react),
 Next.js, TypeScript
-- backend architecture: a diverse range of technologies (that I am only learning) like  MERN stack, Prisma, PostgreSQL, Next.js integrated backend.
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
