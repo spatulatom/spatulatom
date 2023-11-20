@@ -1,7 +1,7 @@
 ## About me
 - studing online on Udemy/Codecademy, 
 - [![LinkedIn][linkedin-shield]][linkedin-url].
-  </br>Hello, I'm Tom. I am studing online on Udemy and Codecademy. I began my journey into web app development by building simple web apps with vanilla JavaScript, HTML, and CSS. Since then, I've delved into React.js. Currently, my focus lies in utilizing Next.js, and for styling, I've found Tailwind CSS to be incredibly useful.
+  </br>Hello, I'm Tom. I am studing online on Udemy and Codecademy. I began my journey into web app development by building simple web apps with vanilla JavaScript, HTML, and CSS. Since then, I've delved into React.js. Currently, my focus lies in utilizing Next.js, and for styling I've found Tailwind CSS to be incredibly useful.
 
 
 
