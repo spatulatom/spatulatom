@@ -8,7 +8,6 @@
 ## Projects
 Main projects: 
 - <a href="https://projects-online.vercel.app/#secondPage"   target="_blank"> main projects </a>
-- <a href="https://github.com/spatulatom/projects-online#readme">  portflio website (Tailwind, TypeScript, Vite, Jest Testing Library) </a> 
 
 Other projects:
 -  <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> an imitation of Wordle, a  guessing game (Next.js, TypeScript, Tailwind CSS) </a>,
