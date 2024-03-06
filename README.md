@@ -1,7 +1,7 @@
 ## About me
 - studing online on Udemy/Codecademy, 
 - [![LinkedIn][linkedin-shield]][linkedin-url].
-  </br>Hi there, I'm Tom. I've started my journey into web app development by building simple web apps with vanilla JavaScript, HTML, and CSS. Since then, I've delved into React.js. Currently in my project I use  Next.js integrated with TypeScript, and for styling mostly Tailwind CSS.
+  </br>Hi there, I'm Tom. I started exploring my interest into web app development by building simple web apps with vanilla JavaScript, HTML, and CSS. Since then, I've delved into React.js. Currently in my project I use  Next.js integrated with TypeScript, and for styling mostly Tailwind CSS.
 
 
 
