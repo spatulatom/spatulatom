@@ -1,6 +1,5 @@
 ## About me
   </br>Hello there, my name is Tom. This profile showcases some of my web apps built with React.js and Node.js. The latest projects are built with Next.js integrated with TypeScript and Tailwind CSS, I also use some databases (either MongoDB or PostgreSQL).
-- [![LinkedIn][linkedin-shield]][linkedin-url].
 
 
 ## Projects
@@ -27,5 +26,4 @@ Other projects:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/
+
