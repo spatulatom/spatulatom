@@ -14,6 +14,7 @@ Other projects:
 -  <a href="https://github.com/spatulatom/todo-reactjs#readme"> a ToDo (React.js ) </a>,
 -  <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> "ad hoc" (Bootstrap)</a>,
 - <a href="https://github.com/spatulatom/sass-project#readme-top"> "Visit Japan"  (SASS)</a>.
+- - <a href="https://github.com/spatulatom/projects-online"> "Visit Japan"  (vanilla Js, Vite, Jest Testing Library, TypeScript)</a>
 
    
 
