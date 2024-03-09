@@ -21,7 +21,7 @@ Other projects:
 
 ## Most Used Technologies & Tools
 - HTML, Tailwind CSS,
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), TypeSript, Next.js
 
 
 
