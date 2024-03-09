@@ -1,6 +1,6 @@
 ## About me
 - [![LinkedIn][linkedin-shield]][linkedin-url].
-  </br>Hi there, my name is Tom, about two years ago I've started exploring my interest in web dev by building simply web apps with React.js and Node.js. Currently my stack consists mostly of  Next.js integrated with TypeScript, and  Tailwind CSS for styling, I also use some database (either MongoDB or PostgreSQL).
+  </br>My name is Tom. This profile showcases some of my web apps built with React.js and Node.js. The latest projects though are built with Next.js integrated with TypeScript and Tailwind CSS, I also use some database (either MongoDB or PostgreSQL).
 
 
 
