@@ -1,5 +1,5 @@
 ## About me
-  </br>My name is Tom. This profile showcases some of my web apps built with React.js and Node.js. The latest projects are built with Next.js integrated with TypeScript and Tailwind CSS, I also use some database (either MongoDB or PostgreSQL).
+  </br>Hello there, my name is Tom. This profile showcases some of my web apps built with React.js and Node.js. The latest projects are built with Next.js integrated with TypeScript and Tailwind CSS, I also use some databases (either MongoDB or PostgreSQL).
 - [![LinkedIn][linkedin-shield]][linkedin-url].
 
 
@@ -21,7 +21,7 @@ Other projects:
 
 ## Most Used Technologies & Tools
 - HTML, Tailwind CSS,
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), TypeSript, Next.js
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), TypeScript, Next.js
 
 
 
