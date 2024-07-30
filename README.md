@@ -23,7 +23,7 @@ Other projects:
 
 ## Most Used Technologies & Tools
 - HTML, Tailwind CSS,
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), React.js, Next.js, Node.js, TypeScript, unit tests with Jest.
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), React.js, Next.js, Node.js, TypeScript, unit tests with Jest library.
 
 
 
