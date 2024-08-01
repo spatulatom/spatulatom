@@ -1,5 +1,5 @@
 ## About me
-  Hello there, my name is Tom. This profile showcases some of my web apps built with React.js and Node.js. The latest projects are built with Next.js integrated with TypeScript and Tailwind CSS, and either MongoDB or PostgreSQL for database.
+  Hello there, my name is Tom. This profile of mine showcases some of my full-stack web apps built with React and Node.js. Then my latest projects are using of Next.js integrated with TypeScript, Tailwind CSS for styling, Jest libraray for unit testing,  and either MongoDB or PostgreSQL for a databases.
 
 
 ## Projects
