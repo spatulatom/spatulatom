@@ -1,10 +1,9 @@
 ## About me
-  Hello there, my name is Tom. This profile showcases some of my fullstack web apps built with React and Node.js. My latest projects though, are utilizing Next.js App Router integrated with TypeScript for core build of my apps, Tailwind CSS for styling, Jest libraray for unit testing, Prisma for database models, and MongoDB and PostgreSQL for databases. Projects are deployed either on Vercel, Firebase, Render (for backends) or GitHub Pages.
-
+Hello there, my name is Tom. This profile showcases two of my full-stack web apps built with React.js, Node.js, and MongoDB. The first one is a social media app called "EventsBook" where users can share their photos and posts about current or upcoming events, and the second one is an online clothing shop "E-Fashion" with full PayPal checkout. My latest projects, though, are utilizing Next.js App Router integrated with TypeScript for the core build of my apps, Tailwind CSS for styling, Jest library for unit testing, Prisma for database models, and MongoDB and PostgreSQL for databases - there are several apps that demonstrate the complexities of CRUD operations on social media platforms where mutations on some pages should be reflected throughout the whole app, or scenarios where caching is applied for best results. All projects are deployed either on Vercel, Firebase, Render (for backends), or GitHub Pages. Projects belo are listed in reverse order of their completion (from the latest to the very first ones).
 
 ## Projects
 Latest projects: 
-- <a href="https://projects-online.vercel.app"   target="_blank"> a few (currently 7) main projects - mostly fullstack projects built either with Next.js (App Router) or React.js and Node.js backends </a>
+- <a href="https://projects-online.vercel.app"   target="_blank"> MAIN PROJECTS - mostly fullstack projects built either with Next.js (App Router) or React.js and Node.js backends </a>
 
 Earlier projects:
 -  <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> "Wordle", a copy - The New York Times word guessing game built with Next.js, TypeScript, Tailwind CSS for styling </a>,
