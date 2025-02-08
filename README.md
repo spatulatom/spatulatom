@@ -1,5 +1,5 @@
 ## About me
-  Hello there, my name is Tom. This profile showcases some of my full-stack web apps built with React and Node.js. My latest projects though, are utilizing Next.js integrated with TypeScript for core build of my apps, Tailwind CSS for styling, Jest libraray for unit testing,  and either MongoDB or PostgreSQL for databases. Projects are deployed either on Vercel, Firebase, Render (for backends) or GitHub Pages.
+  Hello there, my name is Tom. This profile showcases some of my fullstack web apps built with React and Node.js. My latest projects though, are utilizing Next.js App Router integrated with TypeScript for core build of my apps, Tailwind CSS for styling, Jest libraray for unit testing, Prisma for database models, and MongoDB and PostgreSQL for databases. Projects are deployed either on Vercel, Firebase, Render (for backends) or GitHub Pages.
 
 
 ## Projects
