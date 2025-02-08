@@ -9,12 +9,12 @@ Latest projects:
 Earlier projects:
 -  <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> "Wordle", a copy - The New York Times word guessing game built with Next.js, TypeScript, Tailwind CSS for styling </a>,
 -  <a href="https://github.com/spatulatom/projects-online"> "Projects-online" - my portfolio website that is a project itself on vanilla JavaScript (and TypeScript) minified and bundled with Vite bundler, styled with Tailwind, unit tested with Jest Testing Library </a>
--  <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> "California Destinations" - a hotel booking app build with Next.js and its legacy Pages Router </a>,
-- <a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> "ToDo" a simple todo app; trying TypeScript (React.js,TypeScript) </a>,
--  <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme"> "Shopping Card" a simple shop front with the shopping basket; trying Redux (Redux, React.js) </a>,
--  <a href="https://github.com/spatulatom/todo-reactjs#readme"> "ToDo" - first React project (React.js ) </a>,
--  <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> "ad hoc" (Bootstrap)</a>,
-- <a href="https://github.com/spatulatom/sass-project#readme-top"> "Visit Japan"  (SASS)</a>
+-  <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> "California Destinations" - a hotel booking app built with Next.js and its legacy Pages Router (Next.js) </a>,
+- <a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> "ToDo" a simple todo app; trying/learning TypeScript (React.js,TypeScript) </a>,
+-  <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme"> "Shopping Card" a simple shop front with a shopping basket; trying/learning Redux (Redux, React.js) </a>,
+-  <a href="https://github.com/spatulatom/todo-reactjs#readme"> "ToDo" - my first React.js project (React.js ) </a>,
+-  <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> "ad hoc" trying Bootstrap (Bootstrap)</a>,
+- <a href="https://github.com/spatulatom/sass-project#readme-top"> "Visit Japan" trying SASS (SASS)</a>
 
 
 
