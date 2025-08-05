@@ -8,7 +8,7 @@ Deployment: Projects are deployed on platforms such as Vercel, Firebase, Render 
 
 
 
-## Projects (listed top-down, from newest to earliest)
+## Projects (listed top-down, from newest to earliest):
 
 Latest projects: 
 - <a href="https://projects-online.vercel.app"   target="_blank"> MAIN PROJECTS - mostly fullstack projects built either with Next.js (App Router) or React.js and Node.js backends </a>
@@ -28,9 +28,9 @@ Earlier projects:
    
 
 
-## Most Used Technologies & Tools
-- Figma,  HTML, Tailwind CSS,
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), React.js, Next.js, Node.js, TypeScript, Vite, unit tests with Jest, Prisma, Postgres and MongoDB.
+## Most Used Technologies & Tools:
+
+- Figma, HTML, Tailwind CSS, ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), TypeScript, React.js, Next.js, Vite, Node.js, Jest, Prisma, MongoDB, PostgreSQL.
 
 
 
