@@ -1,9 +1,9 @@
 ## About me
-Hello there, my name is Tom. I'm passionate about creating frontend and full-stack interactive web apps, with stress on UI/UX and WCAG 2.2 accessibility rules compliance. As for the tech stack, I usually start the workflow with the design in Figma and then either:
+Hello there, my name is Tom. I'm passionate about creating frontend and full-stack interactive web apps, with stress on UI/UX and WCAG 2.2 accessibility rules compliance. As for the tech stack, I use:
 
+ - Figma,
  - MERN - MongoDB, Express.js, React and Node.js,
- - Next.js (both App and Pages Router), TypeScript, Tailwind CSS, Jest for unit testing, Prisma, MongoDB/PostgreSQL for databases,
- - Vite bundler,  vanilla TypeScript and Tailwind CSS.
+ - Next.js (both App and Pages Router), TypeScript, Tailwind CSS, Jest for unit testing, Prisma for database modeling, MongoDB/PostgreSQL for databases.
 
 
    
@@ -30,10 +30,6 @@ Earlier projects:
 
    
 
-
-## Most Used Technologies & Tools:
-
-- Figma, HTML, Tailwind CSS, ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), TypeScript, React.js, Next.js, Vite, Node.js, Jest, Prisma, MongoDB, PostgreSQL.
 
 
 
