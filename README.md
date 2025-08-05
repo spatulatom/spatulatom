@@ -1,5 +1,5 @@
 ## About me
-Hello there, my name is Tom. This profile showcases two of my full-stack web apps built with React.js, Node.js, and MongoDB. The first one is a social media app called "EventsBook" where users can share their photos and posts about current or upcoming events, and the second one is an online clothing shop "E-Fashion" with full PayPal checkout. My latest projects, though "Chat Room", "Search Item" and "Bookmark a Joke" are utilizing Next.js App Router integrated with TypeScript for the core build of my apps, Tailwind CSS for styling, Jest library for unit testing, Prisma for database models, and MongoDB and PostgreSQL for databases - those apps among many things demonstrate the complexities of CRUD operations on social media platforms where mutations on some pages should be reflected throughout the whole app, or scenarios where caching is applied for best results. All projects are deployed either on Vercel, Firebase, Render (for backends), or GitHub Pages. Projects below are listed in reverse order of their completion (from the latest to the very first ones).
+Hello there, my name is Tom. This profile showcases two of my full-stack MERN web apps built with React.js, Node.js, and MongoDB. My latest projects though are build with Next.js (App and also Pages Router) integrated with TypeScript, Tailwind CSS for styling, Jest library for unit testing, Prisma for database models, and MongoDB and PostgreSQL for databases Projects are deployed either on Vercel, Firebase, Render (for backends), or GitHub Pages. Projects below are listed in reverse order of their completion (from the latest to the very first ones).
 
 ## Projects
 Latest projects: 
@@ -22,7 +22,7 @@ Earlier projects:
 
 ## Most Used Technologies & Tools
 - HTML, Tailwind CSS,
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), React.js, Next.js, Node.js, TypeScript, unit tests with Jest library.
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), React.js, Next.js, Node.js, TypeScript, Vite, unit tests with Jest, Prisma, Postgres and MongoDB.
 
 
 
