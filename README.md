@@ -13,10 +13,10 @@ Deployment: Projects are deployed on platforms such as Vercel, Firebase, Render 
 
 ## Projects (listed top-down, from newest to earliest):
 
--  <a href="https://github.com/spatulatom/testing-next-13-beta-typescript-tailwind-prisma#readme"> Chat Room</a> - CRUD messaging app with Google account log in;  Next.js 15+, Tailwind CSS, Tanstack( before React Query), React Hot Toast, TypeScript, NextAuth.js,  Prisma, PostgreSQL,
+-  <a href="https://github.com/spatulatom/testing-next-13-beta-typescript-tailwind-prisma#readme"> Chat Room</a> - CRUD messaging app with Google account log in;  Next.js 15+, Tailwind CSS, Tanstack ( before React Query), React Hot Toast, TypeScript, NextAuth.js,  Prisma, PostgreSQL,
 -  <a href="https://github.com/spatulatom/testing-next-13-beta-typescript-tailwind-prisma#readme"> Bookmark a Joke</a> - CRUD generating jokes app, jokes that can be saved on user's acoounts; Next.js, Tailwind CSS, NextAuth.js, MongoDB,
--  <a href="https://github.com/spatulatom/e-store-redux-mern?tab=readme-ov-file#about-the-project"> E-fashion </a> - online store with shopping card, checkout and PayPal payment; React.js, Redux, Node.js, Express.js, MongoDB, Uploadcare API, Firebase and render.com for deployment,
--  <a href="https://github.com/spatulatom/frontend-eventsbook#readme-top"> Eventsbook</a>  - social media app-like, users can post images, likes and comments; React.js, Node.js, Express.js, MongoDB, Cloudinary API, Firebase and render.com for deployment,
+-  <a href="https://github.com/spatulatom/e-store-redux-mern?tab=readme-ov-file#about-the-project"> E-fashion </a> - MERN online store with shopping card, checkout and PayPal payment; React.js, Redux, Node.js, Express.js, MongoDB, Uploadcare API, Firebase and render.com for deployment,
+-  <a href="https://github.com/spatulatom/frontend-eventsbook#readme-top"> Eventsbook</a>  - MERN social media app-like, users can post images, likes and comments; React.js, Node.js, Express.js, MongoDB, Cloudinary API, Firebase and render.com for deployment,
 -  <a href="https://github.com/spatulatom/todo-reactjs-redux/tree/master#readme-top"> ToDo</a> - React.js, Redux,
 -  <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> Wordle (copy)</a> - Next.js, TypeScript, Tailwind CSS,
 -  <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> California Destination</a> - a hotel booking; Next.js Pages Router,
