@@ -13,18 +13,19 @@ Deployment: Projects are deployed on platforms such as Vercel, Firebase, Render 
 
 ## Projects (listed top-down, from newest to earliest):
 
-Latest projects: 
-- <a href="https://projects-online.vercel.app"   target="_blank"> MAIN PROJECTS - mostly fullstack projects built either with Next.js (App Router) or React.js and Node.js backends </a>
-
-Earlier projects:
--  <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> "Wordle", a copy </a> Next.js, TypeScript, Tailwind CSS,
--  <a href="https://github.com/spatulatom/projects-online"> "Projects-online" - my portfolio website that is a project itself on vanilla JavaScript (and TypeScript) minified and bundled with Vite bundler, styled with Tailwind, unit tested with Jest Testing Library </a>
--  <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> "California Destinations" - a hotel booking app built with Next.js and its legacy Pages Router (Next.js) </a>,
-- <a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> "ToDo" a simple todo app; trying/learning TypeScript (React.js,TypeScript) </a>,
--  <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme"> "Shopping Card" a simple shop front with a shopping basket; trying/learning Redux (Redux, React.js) </a>,
--  <a href="https://github.com/spatulatom/todo-reactjs#readme"> "ToDo" - my first React.js project (React.js ) </a>,
--  <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> "ad hoc" trying Bootstrap (Bootstrap)</a>,
-- <a href="https://github.com/spatulatom/sass-project#readme-top"> "Visit Japan" trying SASS (SASS)</a>
+-  <a href="https://github.com/spatulatom/testing-next-13-beta-typescript-tailwind-prisma#readme"> Chat Room</a> - CRUD messaging app with Google account log in;  Next.js 15+, Tailwind CSS, Tanstack( before React Query), React Hot Toast, TypeScript, NextAuth.js,  Prisma, PostgreSQL,
+-  <a href="https://github.com/spatulatom/testing-next-13-beta-typescript-tailwind-prisma#readme"> Bookmark a Joke</a> - CRUD generating jokes app, jokes that can be saved on user's acoounts; Next.js, Tailwind CSS, NextAuth.js, MongoDB,
+-  <a href="https://github.com/spatulatom/e-store-redux-mern?tab=readme-ov-file#about-the-project"> E-fashion </a> - online store with shopping card, checkout and PayPal payment; React.js, Redux, Node.js, Express.js, MongoDB, Uploadcare API, Firebase and render.com for deployment,
+-  <a href="https://github.com/spatulatom/frontend-eventsbook#readme-top"> Eventsbook</a>  - social media app-like, users can post images, likes and comments; React.js, Node.js, Express.js, MongoDB, Cloudinary API, Firebase and render.com for deployment,
+-  <a href="https://github.com/spatulatom/todo-reactjs-redux/tree/master#readme-top"> ToDo</a> - React.js, Redux,
+-  <a href="https://github.com/spatulatom/nextjs-wordle-new-york-times-game#readme" target="_blank"> Wordle (copy)</a> - Next.js, TypeScript, Tailwind CSS,
+-  <a href="https://github.com/spatulatom/react-next-california-destinations#readme"> California Destination</a> - a hotel booking; Next.js Pages Router,
+-  <a href="https://github.com/spatulatom/todo-reactjs-typescript/tree/master#readme-top"> ToDo</a> - React.js, TypeScript,
+-  <a href ="https://github.com/spatulatom/shopping-card-reactjs#readme"> Shopping Card</a> a simple shop front with a shopping cart; React.js, Redux,
+-  <a href="https://github.com/spatulatom/todo-reactjs#readme"> ToDo</a> React.js,
+-  <a href="https://github.com/spatulatom/todo-vanillajs?tab=readme-ov-file#about-the-project"> ToDo</a> - vanilla JavaScript,
+-  <a href="https://github.com/spatulatom/bootstrap-demo-website#readme-top"> ad hoc </a> trying Bootstrap,
+-  <a href="https://github.com/spatulatom/sass-project#readme-top"> Visit Japan</a> trying SASS.
 
 
 
