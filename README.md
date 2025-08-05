@@ -1,14 +1,15 @@
 ## About me
-Hello there, my name is Tom. I'm passionate about creating frontend and full-stack interactive web apps, with stress on UI/UX and WCAG 2.2 accessibility rules compliance. Figma is usually where I start, as for the stack, I use:
+Hello there, my name is Tom. I'm passionate about creating frontend and full-stack interactive web apps, with stress on UI/UX and WCAG 2.2 accessibility rules compliance. Figma is usually where I start, as for the tech stack, I use:
 
- - MERN - MongoDB, Express.js, React and Node.
- - Next.js (both App and Pages Router), TypeScript, Tailwind CSS for styling, the Jest library for unit testing, Prisma for database modeling, and MongoDB and PostgreSQL for databases.
+ - MERN - MongoDB, Express.js, React and Node.js;
+ - Next.js (both App and Pages Router), TypeScript, Tailwind CSS for styling, the Jest library for unit testing, Prisma for database modeling, and MongoDB/PostgreSQL for databases.
    
 Deployment: Projects are deployed on platforms such as Vercel, Firebase, Render (for backends), or GitHub Pages.
 
-Projects below are listed form the newest to the very first one:
 
-## Projects
+
+## Projects (listed top-down, from newest to earliest)
+
 Latest projects: 
 - <a href="https://projects-online.vercel.app"   target="_blank"> MAIN PROJECTS - mostly fullstack projects built either with Next.js (App Router) or React.js and Node.js backends </a>
 
@@ -28,7 +29,7 @@ Earlier projects:
 
 
 ## Most Used Technologies & Tools
-- Figam,  HTML, Tailwind CSS,
+- Figma,  HTML, Tailwind CSS,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), React.js, Next.js, Node.js, TypeScript, Vite, unit tests with Jest, Prisma, Postgres and MongoDB.
 
 
