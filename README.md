@@ -1,5 +1,12 @@
 ## About me
-Hello there, my name is Tom. This profile showcases two of my full-stack MERN web apps built with React.js, Node.js, and MongoDB. My latest projects though are build with Next.js (App and also Pages Router) integrated with TypeScript, Tailwind CSS for styling, Jest library for unit testing, Prisma for database models, and MongoDB and PostgreSQL for databases Projects are deployed either on Vercel, Firebase, Render (for backends), or GitHub Pages. Projects below are listed in reverse order of their completion (from the latest to the very first ones).
+Hello there, my name is Tom. I'm passionate about creating frontend and full-stack interactive web apps, with stress on UI/UX and WCAG 2.2 accessibility rules compliance. Figma is usually where I start, as for the stack, I use:
+
+ - MERN - MongoDB, Express.js, React and Node.
+ - Next.js (both App and Pages Router), TypeScript, Tailwind CSS for styling, the Jest library for unit testing, Prisma for database modeling, and MongoDB and PostgreSQL for databases.
+   
+Deployment: Projects are deployed on platforms such as Vercel, Firebase, Render (for backends), or GitHub Pages.
+
+Projects below are listed form the newest to the very first one:
 
 ## Projects
 Latest projects: 
@@ -21,7 +28,7 @@ Earlier projects:
 
 
 ## Most Used Technologies & Tools
-- HTML, Tailwind CSS,
+- Figam,  HTML, Tailwind CSS,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), React.js, Next.js, Node.js, TypeScript, Vite, unit tests with Jest, Prisma, Postgres and MongoDB.
 
 
