@@ -1,5 +1,5 @@
 ## About me
-Hello there, my name is Tom. I'm creating frontend and full-stack interactive web apps, with stress on UI/UX and WCAG accessibility rules compliance. As for the tech stack, I use:
+Hello there. I'm into frontend and full-stack interactive web apps, with stress on UI/UX and WCAG accessibility rules compliance. As for the tech stack, I use:
 
  - Figma,
  - MERN: MongoDB, Express.js, React and Node.js,
