@@ -1,5 +1,5 @@
 ## About me
-Hello there. I'm into frontend and full-stack interactive web apps, with stress on UI/UX and WCAG accessibility rules compliance. As for the tech stack, I use:
+Hello. Check out my frontend and full-stack web apps below, I try to focus on UI/UX and WCAG accessibility rules compliance side of things. As for the tech stack, I use:
 
  - Figma,
  - MERN: MongoDB, Express.js, React and Node.js,
