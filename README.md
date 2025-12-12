@@ -1,13 +1,16 @@
 ## About me
-Hello. Check out my frontend and full-stack web apps below, I try to focus on UI/UX and WCAG accessibility rules compliance side of things. As for the tech stack, I use:
+Hello everyone! Check out my frontend and full-stack web applications below. I focus on UI/UX design and ensuring compliance with WCAG accessibility standards. My tech stack includes:
 
- - Figma,
- - MERN: MongoDB, Express.js, React and Node.js,
- - Next.js, TypeScript, Tailwind CSS, Jest for unit testing, Prisma for database modeling, MongoDB/PostgreSQL for databases.
+- Figma for wireframing and designing
+- MERN: MongoDB, Express.js, React, and Node.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Jest for unit testing
+- Prisma for database modeling
+- MongoDB/PostgreSQL for databases
 
-
-   
-Deployment: Projects are deployed on platforms such as Vercel, Firebase, Render (for backends), or GitHub Pages.
+For deployment, I host my projects on platforms such as Vercel, Firebase, Render (for backends), and GitHub Pages.
 
 
 
