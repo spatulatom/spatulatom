@@ -1,5 +1,5 @@
 ## About me
-Hello there! Check out my frontend and full-stack web apps. I focus on UI/UX design, compliance with WCAG accessibility standards, client and server side rendering etc. My tech stack includes:
+Hello there! Check out my frontend and full-stack web apps. I focus on UI/UX design, compliance with WCAG accessibility standards, client vs server side rendering, seo optimazation with Ahref/Semrush crawlers, Google Search Console/Analitics monitoring.  My tech stack includes:
 
 - Figma for wireframing and designing
 - MERN: MongoDB, Express.js, React, and Node.js
