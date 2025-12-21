@@ -1,5 +1,5 @@
 ## About me
-Hello there! Check out my frontend and full-stack web applications. I focus on UI/UX design and ensuring compliance with WCAG accessibility standards. My tech stack includes:
+Hello there! Check out my frontend and full-stack web apps. I focus on UI/UX design, compliance with WCAG accessibility standards, client and server side rendering etc. My tech stack includes:
 
 - Figma for wireframing and designing
 - MERN: MongoDB, Express.js, React, and Node.js
@@ -10,7 +10,7 @@ Hello there! Check out my frontend and full-stack web applications. I focus on U
 - Prisma for database modeling
 - MongoDB/PostgreSQL for databases
 
-For deployment, I host my projects on platforms such as Vercel, Firebase, Render (for backends), and GitHub Pages.
+For deployment i use platforms such as Vercel, Firebase, Render (for backends), and GitHub Pages.
 
 
 
