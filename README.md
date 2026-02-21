@@ -2,7 +2,7 @@
 I focus on UI/UX design, compliance with WCAG 2.2 accessibility standards, client vs server side rendering, SEO optimazation with Ahref/Semrush crawlers, Google Search Console/Analitics monitoring.  
 Tech stack:
 
-- Figma for wireframing and designing
+- Figma for wireframing and designing, Figma MCP
 - MERN: MongoDB, Express.js, React, and Node.js
 - Next.js
 - TypeScript
