@@ -1,6 +1,6 @@
 ## About me
-Hello there and welcome to my profile. My name is Tom and I love tinkering with frontend code. I focus on compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers, and Google Search Console/Analytics monitoring
-Tech stack:
+Hello there and welcome to my profile. My name is Tom and I love tinkering with frontend code. I focus on UI/UX design, compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers, and Google Search Console/Analytics monitoring.
+My stack includes:
 
 - Figma for wireframing and designing, Figma MCP,
 - MERN: MongoDB, Express.js, React, and Node.js,
@@ -9,11 +9,10 @@ Tech stack:
 - Tailwind CSS,
 - Jest for unit testing,
 - Prisma for database modeling,
-- MongoDB/PostgreSQL for databases,
-- Wordpress for SEO experiments/testings.
+- MongoDB/PostgreSQL for databases.
 
 For deployment i use platforms such as Vercel, Firebase, Render (for 
-some backends), GitHub Pages.
+some backends), GitHub Pages, AWS S3 and Cloudinary for media storage.
 
 
 
