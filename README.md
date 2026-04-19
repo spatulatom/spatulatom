@@ -3,17 +3,16 @@ Hello there and welcome to my profile. My name is Tom and I love tinkering with 
 
 My stack includes:
 
-- Figma for wireframing and designing, Figma MCP,
+- Figma, Figma MCP,
 - MERN: MongoDB, Express.js, React, and Node.js,
 - Next.js,
 - TypeScript,
 - Tailwind CSS,
-- Jest for unit testing,
-- Prisma for database modeling,
-- MongoDB/PostgreSQL for databases.
+- Jest,
+- Prisma,
+- MongoDB/PostgreSQL.
 
-For deployment i use platforms such as Vercel, Firebase, Render (for 
-some backends), GitHub Pages, AWS S3 and Cloudinary for media storage.
+For deployment I use platforms such as Vercel, Firebase, Render, GitHub Pages, AWS S3 and Cloudinary for media storage.
 
 
 
