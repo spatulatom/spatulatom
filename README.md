@@ -1,5 +1,5 @@
 ## About me
-Hello there and welcome on my profile My name is Tom and I love tinkering with frontend code, I focus on compliance with WCAG accessibility standards, client vs server side rendering, SEO optimazation with Ahref/Semrush crawlers, Google Search Console/Analitics monitoring.  
+Hello there and welcome to my profile. My name is Tom and I love tinkering with frontend code. I focus on compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers, and Google Search Console/Analytics monitoring
 Tech stack:
 
 - Figma for wireframing and designing, Figma MCP
