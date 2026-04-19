@@ -1,5 +1,5 @@
 ## About me
-I focus on UI/UX design, compliance with WCAG 2.2 accessibility standards, client vs server side rendering, SEO optimazation with Ahref/Semrush crawlers, Google Search Console/Analitics monitoring.  
+Hello there and welcome on my profile My name is Tom and I love tinkering with frontend code, I focus on compliance with WCAG accessibility standards, client vs server side rendering, SEO optimazation with Ahref/Semrush crawlers, Google Search Console/Analitics monitoring.  
 Tech stack:
 
 - Figma for wireframing and designing, Figma MCP
