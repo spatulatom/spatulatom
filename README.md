@@ -1,9 +1,9 @@
 ## About me
-Hello there and welcome to my profile. My name is Tom and I love tinkering with frontend code. I focus on UI/UX design, compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers, and Google Search Console/Analytics monitoring.
+Hello there and welcome to my profile. My name is Tom and I love tinkering with frontend code. I focus on UI/UX design, compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers and Google Search Console/Google Analytics.
 
 My stack includes:
 
-- Figma, Figma MCP,
+- Figma,
 - MERN: MongoDB, Express.js, React, and Node.js,
 - Next.js,
 - TypeScript,
