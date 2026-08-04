@@ -1,5 +1,5 @@
-## About me
-Hello there, my name is Tom. I focus on UI/UX design, compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers and Google Search Console/Google Analytics.
+## Hi, I'm Tom 👋
+I do hobby frontend coding with focus on UI/UX design, compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers and Google Search Console/Google Analytics.
 
 My stack includes:
 
