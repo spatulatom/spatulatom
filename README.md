@@ -1,6 +1,5 @@
 ## Hi, I'm Tom 👋
-I do hobby frontend coding with focus on UI/UX design, compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers and Google Search Console/Google Analytics. 
-And lately a lof of ... markdowns specs like 'stuff' for agents...
+I do hobby frontend coding with focus on UI/UX design, compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers and Google Search Console/Google Analytics.
 
 My stack includes:
 
