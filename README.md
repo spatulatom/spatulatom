@@ -1,20 +1,4 @@
 ## Hi, I'm Tom 👋
-I hobby code (frontend), I focus on UI/UX design, compliance with WCAG accessibility standards, client‑ vs server‑side rendering, SEO optimization with Ahrefs/Semrush crawlers and Google Search Console/Google Analytics.
-
-My stack includes:
-
-- Figma,
-- MERN: MongoDB, Express.js, React, and Node.js,
-- Next.js,
-- TypeScript,
-- Tailwind CSS,
-- Jest,
-- Prisma,
-- MongoDB/PostgreSQL.
-
-For deployment I use platforms such as Vercel, Firebase, Render, GitHub Pages, AWS S3 and Cloudinary for media storage.
-
-
 
 ## Projects (listed top-down, from newest to earliest):
 
