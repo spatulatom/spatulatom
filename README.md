@@ -1,6 +1,6 @@
 ## Hi, I'm Tom 👋
 
-## Projects (newest to earliest):
+## Projects:
 
 -  <a href="https://github.com/spatulatom/testing-next-13-beta-typescript-tailwind-prisma#readme"> Chat Room (Next.js App Router)</a> - CRUD messaging web app with Google account for logging in;  Next.js 15+, Tailwind CSS, Tanstack (originally React Query -> updated to Tanstack), React Hot Toast, TypeScript, NextAuth.js, Prisma, PostgreSQL,
 -  <a href="https://github.com/spatulatom/react-next-auth?tab=readme-ov-file#about-the-project"> Bookmark a Joke (Next.js Pages Router)</a> - CRUD generating jokes web app, jokes can be saved on user's acoounts; Next.js 15+, Tailwind CSS, NextAuth.js, MongoDB,
