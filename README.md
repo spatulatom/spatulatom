@@ -1,4 +1,4 @@
-## Playground
+# Playground
 My playground: notes, learning material, hobby projects and experiments. Git version controlling everything!!
 
 
