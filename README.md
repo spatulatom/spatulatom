@@ -1,5 +1,5 @@
 # Playground
-Notes and learning material on any subject, hobby projects and experiments with web dev, databases, SQL, and more. 
+Notes, learning material, hobby projects, experiments. 
 Git version controlling everything!!
 
 
