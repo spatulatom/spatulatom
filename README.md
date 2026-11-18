@@ -1,5 +1,5 @@
 # Playground
-Notes, learning material, hobby projects and experiments. Git version controlling everything!!
+Notes, learning material, hobby projects, experiments. Git version controlling everything!!
 
 
 ## Projects:
