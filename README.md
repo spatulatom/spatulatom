@@ -1,4 +1,6 @@
-## Hi, I'm Tom 👋
+## Playground
+My playground: notes, learning material, hobby projects and experiments. Git version controlling everything!!
+
 
 ## Projects:
 
