@@ -1,5 +1,5 @@
 # Playground
-Notes, learning material, hobby projects, coding experiments </br>GitHub is my Obsidian
+Notes, learning material, hobby projects, coding experiments. </br>GitHub is my Obsidian.
 
 
 ## Projects:
