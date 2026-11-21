@@ -1,6 +1,5 @@
 # Playground
-Notes, learning material, hobby projects, experiments. 
-Git version controlling everything!!
+Notes, learning material, hobby projects, coding experiments - Github is my Obsydian
 
 
 ## Projects:
